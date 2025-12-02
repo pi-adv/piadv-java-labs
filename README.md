@@ -11,7 +11,7 @@ Repo workflow:
 - [ ] Testing/Troubleshooting
 - [ ] Main release (v-__)
 ---
-|App Idea|Beta|Testing|Main Release|Recent Version|
+|App|Beta|Testing|Main Release|Recent Version|
 |--------|----|---------------|------------|--------------|
 |Calculator|✔️|In Progress|❌|❌|
 |Text Editor|✔️|In Progress|❌|❌|
